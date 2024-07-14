@@ -87,7 +87,7 @@
 						writing</ref> into an art form and gained recognition for their literary
 					talents well after their deaths. Material factors: including cheaper paper,
 					rising literacy levels, and the introduction of the penny post (in 1840!) meant
-					that letters became central to the organisation of everyday life.<note type="scholarNote">Donovan, Susan. “How the Post Office and Postal Products
+					that <ref target="#tgenre_letter">letters</ref> became central to the organisation of everyday life.<note type="scholarNote">Donovan, Susan. “How the Post Office and Postal Products
 						Shaped Mid-Nineteenth-Century Letter-Writing.” BRANCH: Britain,
 						Representation and Nineteenth-Century History. Ed. Dino Franco Felluga.
 						Extension of Romanticism and Victorianism on the Net. Web. February 24,
@@ -111,7 +111,7 @@
 						life or a narrative that tells a person's life in terms of an event. Working
 						on nineteenth century life writing, Mary Jean Corbett definition of memoir
 						fits most closely with Rak’s first definition: women writers tended to write
-						memoirs that focused on anecdotes of well-known figures and historical
+						 <ref target="#tgenre_biography">memoirs</ref> that focused on anecdotes of well-known figures and historical
 						reportage, rather than themselves. Rak notes that memoir has long been seen
 						as the “poor relative of autobiography discourse, a secondary form of life
 						writing like diaries, confessions, letters or journals” but is now, in North
@@ -177,7 +177,7 @@
 						Maschuch.</note></p>
 				<p>Indeed, some scholars have argued that the Romantic period sees the
 					autobiographization of literature,<note type="scholarNote">Stelzig, Romantic
-						Autobiography, 3.</note> with many of the best known novels and poems of the
+						Autobiography, 3.</note> with many of the best known <ref target="#tgenre_novel">novels</ref> and poems of the
 					century by both men and women, from <persName key="William Wordsworth" ref="https://cwrc.ca/islandora/object/orlando%3Aec7ae5ac-8fb2-4a08-b5fb-3cd485a339dd">Wordsworth</persName>’s <title level="m">The Prelude </title>and <persName key="Charles Dickens" ref="https://cwrc.ca/islandora/object/orlando%3A294ea13f-024b-461c-a598-011e649b35fa">Dickens</persName>’s <title level="m">David Copperfield</title> to
 						<persName key="Elizabeth Barrett Browning" ref="https://commons.cwrc.ca/orlando:7fa078f1-e346-4d74-a9c4-4e3e57e80cad">Elizabeth Barrett Browning</persName>’s <title ref="https://cwrc.ca/islandora/object/orlando:5f5dc034-f7b8-4364-bc5c-f9c74bc6ac95">Aurora Leigh</title> and <persName key="Charlotte Brontë" ref="https://commons.cwrc.ca/orlando:a017e41e-6e1c-4c16-a575-82d25f7ec038">Charlotte Brontë</persName>’s <title ref="https://commons.cwrc.ca/orlando:2801dd89-7791-4f8b-a0a7-57e115af1113">Jane Eyre</title>, containing a strong autobiographical element. In the
 					nineteenth century, men writers tended to pattern their autobiographies on
@@ -275,7 +275,7 @@
 					tagged as autobiographical writing, as well as what other genres they are tagged
 					in, illustrates the patterns that shaped women’s autobiographical writing in the
 					nineteenth century. Published <ref target="#tgenre_autobiography">autobiographical</ref> material was almost as likely to show up in a <ref target="#tgenre_novel">novel</ref> (130 titles) as it was in a <ref target="#tgenre_diary">diary</ref> (138 titles); though the diaries were
-					likely to be published decades after the author’s death while novels were
+					likely to be published decades after the author’s death while <ref target="#tgenre_novel">novels</ref> were
 					typically published in their lifetimes. The most dominant monographic form is
 						<ref target="#tgenre_travelwriting">travel writing,</ref> which we explore
 					at length in another chapter (63 titles). <ref target="#tgenreissue">Autobiographical texts are quite often tagged as “<ref target="#tgenre_prefatorypiece">prefatory piece</ref>,” “<ref target="#tgenre_essay">essay</ref>,” “<ref target="#tgenre_sketch">sketch</ref>,” and “<ref target="#tgenre_introduction">introduction</ref>.”</ref>
@@ -309,7 +309,7 @@
 			
 			<div type="subsection">
 				<head>Letters and Diaries</head>
-				<p>For most middle and upper class women in the nineteenth century, writing letters was part and
+				<p>For most middle and upper class women in the nineteenth century, writing <ref target="#tgenre_letter">letters</ref> was part and
 					parcel of managing domestic ife. Letters are perhaps the only form of writing in
 					the nineteenth century that women were not only authorised to write, but had a
 					duty to keep up with on behalf of their families. Indeed, letters and diaries,
@@ -321,9 +321,9 @@
 					kept a diary. Of women born between 1780 and 1900 with a profile in Orlando,
 					around 17% ultimately published a title that was also tagged as a <ref
 						target="#tgenre_diary">diary</ref> (this percentage includes both diaries
-					and diaries incorporated into other forms, like novels); many more women writers
+					and diaries incorporated into other forms, like <ref target="#tgenre_novel">novels</ref>); many more women writers
 					likely kept a diary that was never published <note type="scholarNote"> This
-						percentage also includes other genres, such as novels, that include
+						percentage also includes other genres, such as <ref target="#tgenre_novel">novels</ref>, that include
 						fictionalized diary entries, such as Dinah Craik’s A Life for a
 					Life.</note>. Many women writers kept a <ref target="#tgenre_diary">diary</ref>
 					from a young age: <persName key="Grace Aguilar"
@@ -341,7 +341,7 @@
 					select correspondents, and often carried out family business, keeping in touch
 					with faraway relatives or inviting a friend to tea, were not controversial for
 					women to write. As any scholar who has spent significant time in the archives
-					can attest, most of these diaries and even many of the letters are likely to be
+					can attest, most of these diaries and even many of the <ref target="#tgenre_letter">letters</ref> are likely to be
 					about the business of quotidian life. Nineteenth-century diaries typically
 					briefly record the memoranda of everyday life with little explanatory or
 					emotional content. Many letters will advise on daily business like train times.
@@ -357,16 +357,16 @@
 					recognition for their literary value in and of themselves, but they were also
 					pivotal in shaping the course of <ref target="#tgenre_biography"
 					>biography</ref>, autobiography, and fiction. </p>
-				<p> Surviving private letters and <ref target="#tgenre_diary">diaries</ref> represent a network
+				<p> Surviving private <ref target="#tgenre_letter">letters</ref> and <ref target="#tgenre_diary">diaries</ref> represent a network
 					of correspondents and can help us uncover the sociability that helped women
 					writers into their careers. Letters and diaries also informed the development of
 					literary genres and modes of publication. Writing about the eighteenth century,
 						<persName>Rachael Scarborough King</persName> argues that the letter
 					functions as a “bridge genre” between old and new media in an age of the
 					proliferation of print: “Newspapers relied on letters from “foreign
-					correspondents” for content; periodicals initiated interactions with readers in
+					correspondents” for content; <ref target="#tgenre_periodical">periodicals</ref> initiated interactions with readers in
 					the form of letters to the editor; biographical “lives” used letters as
-					documentary evidence; and novels deployed them to transmit unfolding
+					documentary evidence; and <ref target="#tgenre_novel">novels</ref> deployed them to transmit unfolding
 					narratives.” <note type="scholarNote">Rachael Scarborough King, <title level="m"
 							>Writing to the World: Letters and the Origins of Modern Print
 							Genres</title> (Baltimore: Johns Hopkins University Press, 2018),
@@ -375,19 +375,19 @@
 						ref="https://cwrc.ca/islandora/object/orlando%3Ab691b8e8-4330-4de1-9a92-1dcb4880fbee"
 						>Richardson</persName>’s <title level="m">Pamela</title> and <title
 						level="m">Clarissa</title>–had fallen out of vogue, but fictitious
-					correspondence still made its way into most novels, and the letter continued to
-					be a firmly entrenched part of newspaper and periodical culture and <ref
+					correspondence still made its way into most <ref target="#tgenre_novel">novels</ref>, and the letter continued to
+					be a firmly entrenched part of newspaper and <ref target="#tgenre_periodical">periodical</ref> culture and <ref
 						target="#tgenre_biography">biography</ref>. Past the heyday of <persName
 						key="Samuel Richardson"
 						ref="https://cwrc.ca/islandora/object/orlando%3Ab691b8e8-4330-4de1-9a92-1dcb4880fbee"
-						>Richardson</persName>, women writers continued to publish epistolary
+						>Richardson</persName>, women writers continued to publish <ref target="#tgenre_epistolary">epistolary</ref>
 					novels, from <persName>Eliza Parson’</persName>s <title level="m">The History of
 						Miss Meredith </title> (1790) to <persName>Elizabeth von Armin</persName>’s
 						<title level="m">Fräulein Schmidt</title> and <title level="m">Mr.
 						Anstruther</title> (1907). <persName key="Anne Brontë"
 						ref="https://cwrc.ca/islandora/object/orlando%3A2ec044e6-30f3-4fba-970e-676ec81c79fc"
 						>Anne Brontë</persName>’s <title level="m">The Tenant of Wildfell
-						Hall</title> (1848) takes the form of an epistolary exchange between
+						Hall</title> (1848) takes the form of an <ref target="#tgenre_epistolary">epistolary</ref> exchange between
 					gentleman farmer Gilbert Marham and his brother-in-law about Mrs. Graham, the
 					tenant of the title, whose diaries are also embedded in the narrative. As
 					Catherine Delafield notes, nineteenth-century women’s letters were “authorised
@@ -540,8 +540,8 @@
 					could have patience for such things? And so, having no patience for them
 					herself, what is the result? She is every other day reduced to borrow my
 					tumblers, my teacups…” Carlyle is self-reflexive about the practice of letter
-					writing; her letters often refer to the practice of writing letters. She was
-					acutely aware of the dynamics of the epistolary project and had high standards.
+					writing; her <ref target="#tgenre_letter">letters</ref> often refer to the practice of writing letters. She was
+					acutely aware of the dynamics of the <ref target="#tgenre_epistolary">epistolary</ref> project and had high standards.
 					In 1860, she reprimanded her husband for his lack of affect in a recent letter:
 					“Oh my dear! If all about feelings be bad in a letter, all about scenery and no
 					feelings is a deal worse! Such a letter as that I received from you, yesterday,
@@ -751,10 +751,10 @@
 			</div>
 			<div type="subsection">
 				<head>Biography</head>
-				<p>If letters and diaries were congruent with women’s domestic duties, the family biography was
+				<p>If <ref target="#tgenre_letter">letters</ref> and diaries were congruent with women’s domestic duties, the family biography was
 					in some ways a natural extension of these private, domestic forms. The standard
 					nineteenth-century <ref target="#tgenre_biography">biography</ref>, also
-					tellingly called lives-and-letters, consists mainly of letters stitched together
+					tellingly called lives-and-letters, consists mainly of <ref target="#tgenre_letter">letters</ref> stitched together
 					with a scant narrative. Before the final decade of the nineteenth century, women
 					writers tended to write family biography, focusing on the lives and letters of
 					their husbands and fathers, and typically ending with the death of their male
@@ -776,7 +776,7 @@
 					to break the privacy of the domestic sphere and publish her reminiscences, while
 					adhering to middle-class standards of femininity. Writing about their men
 					relatives, or sometimes, their family history with a focus on male relatives,
-					which relied on and wove together letters, diaries and other family records, was
+					which relied on and wove together <ref target="#tgenre_letter">letters</ref>, diaries and other family records, was
 					in many ways a natural extension of women’s work in maintaining family
 					correspondence and <ref target="#tgenre_diary">diaries</ref>, and acting as
 					family archivists. Titles such as <persName key="Sarah Tytler"
@@ -795,7 +795,7 @@
 						target="#tgenre_prefatorypiece">prefaces</ref> and articles in <ref
 						target="#tgenre_periodical">periodicals</ref>. Women writers wrote
 					biographies and memoirs of their male relatives at all lengths, from a preface
-					with a memoir to an edition of their <ref target="#tgenre_poetry">poetry</ref>,
+					with a <ref target="#tgenre_biography">memoir</ref> to an edition of their <ref target="#tgenre_poetry">poetry</ref>,
 					as <persName key="Adelaide OKeeffe"
 						ref="https://cwrc.ca/islandora/object/orlando%3A1ca8ebcd-05ea-46a8-9053-dc5edef82aab"
 						>Adelaide O’Keeffe</persName> did in <title level="m">O'Keeffe's Legacy to
@@ -830,7 +830,7 @@
 					work was not well-received. <persName key="Joanna Baillie"
 						ref="https://cwrc.ca/islandora/object/orlando%3A697d2560-04b6-43f4-baa0-ef562e5847ff"
 						>Joanna Baillie</persName> and her sister, who knew many of the people
-					depicted in the memoirs, enjoyed them immensely, but <persName
+					depicted in the  <ref target="#tgenre_biography">memoirs</ref>, enjoyed them immensely, but <persName
 						key="John Wilson Croker"
 						ref="https://cwrc.ca/islandora/object/orlando%3A43efc598-d0d9-437b-b741-c23245ec5cc5"
 						>J. W. Croker</persName> savaged them in the Quarterly review, attacking
@@ -889,7 +889,7 @@
 					Hill,” which contained her reminiscences of her grandfather, <persName key="Charles Dickens" ref="https://cwrc.ca/islandora/object/orlando%3A294ea13f-024b-461c-a598-011e649b35fa">Charles Dickens,</persName> in the<title level="m"> Strand Magazine</title>
 					in 1897. For many years, <persName key="Anne Thackeray Ritchie" ref="https://cwrc.ca/islandora/object/orlando%3A5f0f5485-d14f-4c47-8ee2-6493336c5cb7">Anne Thackeray Ritchie</persName> was best known for her forty-page
 					biographical prefaces to the thirteen-volume biographical edition of her father
-						<persName key="William Makepeace Thackeray" ref="https://cwrc.ca/islandora/object/orlando%3A71a8743a-4705-4d4e-8ede-df06c173487f">William Makepeace Thackeray’s</persName> novels. <persName key="Anne Thackeray Ritchie" ref="https://cwrc.ca/islandora/object/orlando%3A5f0f5485-d14f-4c47-8ee2-6493336c5cb7">Thackeray</persName> blended literary criticism and biography in a
+						<persName key="William Makepeace Thackeray" ref="https://cwrc.ca/islandora/object/orlando%3A71a8743a-4705-4d4e-8ede-df06c173487f">William Makepeace Thackeray’s</persName> <ref target="#tgenre_novel">novels</ref>. <persName key="Anne Thackeray Ritchie" ref="https://cwrc.ca/islandora/object/orlando%3A5f0f5485-d14f-4c47-8ee2-6493336c5cb7">Thackeray</persName> blended literary criticism and biography in a
 					conversational style, writing, for example “I cannot help thinking that,
 					although Vanity Fair was written in 1845 and the following years, it was really
 					begun in 1817, when a little boy, but lately come from
@@ -900,13 +900,13 @@
 					about his life and correcting errors in circulation. <persName key="Anne Thackeray Ritchie" ref="https://cwrc.ca/islandora/object/orlando%3A5f0f5485-d14f-4c47-8ee2-6493336c5cb7">Thackeray</persName> was not the only woman to make a long-lasting
 					contribution to scholarship in her biographical writings. Frances Kingsley’s
 					literary activity centred around the life of her husband, the writer and
-					clergyman <persName key="Charles Kingsley" ref="https://cwrc.ca/islandora/object/orlando%3A572f5573-974e-42ce-84d6-c47fac3631f7">Charles Kingsley.</persName> She edited his letters for publication after
+					clergyman <persName key="Charles Kingsley" ref="https://cwrc.ca/islandora/object/orlando%3A572f5573-974e-42ce-84d6-c47fac3631f7">Charles Kingsley.</persName> She edited his <ref target="#tgenre_letter">letters</ref> for publication after
 					his death, as well as several volumes of his religious writings. Her biography
 					of him was wildly successful in the 1870s and 1880s, and remained continuously
 					in print until 1983. <persName key="Charles Kingsley" ref="https://cwrc.ca/islandora/object/orlando%3A572f5573-974e-42ce-84d6-c47fac3631f7">Charles Kingsley’s</persName> niece, the travel writer <persName key="Mary Kingsley" ref="https://cwrc.ca/islandora/object/orlando%3Ab3f6bc76-fa5f-46f5-a5a7-0ffe73dc137c">Mary Kingsley,</persName> also wrote a memoir of her father, the travel
 					writer <persName key="George Henry Kingsley" ref="https://cwrc.ca/islandora/object/orlando%3A0c0106d3-77a3-4520-8e7e-d234b473436d">George Henry Kingsley.</persName> Two sister novelists, <persName key="Florence Marryat" ref="https://cwrc.ca/islandora/object/orlando%3Af5dd2e47-129d-400a-8196-12fb9f393a91">Florence</persName> and <persName key="Augusta Marryat" ref="https://cwrc.ca/islandora/object/orlando%3A5e321f9a-9806-45fe-9d6c-a0c96e683eb6">Augusta Marryat,</persName> worked together on the <title level="m">Life
 						and Letters of Captain Marryat </title>(1872) until the collaboration led to
-					a quarrel; Marryat, best known for his sea novels, had died when <persName key="Augusta Marryat" ref="https://cwrc.ca/islandora/object/orlando%3A5e321f9a-9806-45fe-9d6c-a0c96e683eb6">Augusta Marryat</persName> was ten years old in 1848.</p>
+					a quarrel; Marryat, best known for his sea <ref target="#tgenre_novel">novels</ref>, had died when <persName key="Augusta Marryat" ref="https://cwrc.ca/islandora/object/orlando%3A5e321f9a-9806-45fe-9d6c-a0c96e683eb6">Augusta Marryat</persName> was ten years old in 1848.</p>
 				<p>More rarely, daughters edited and published their mothers’ <ref target="#tgenre_lifeWriting"
 						>life writing</ref>. Maria Elizabeth is a rare example of a daughter who
 					completed her mother’s <ref target="#genre_biography">memoirs</ref>, which were
@@ -1147,7 +1147,7 @@
 					Hannah, and she argues that because they have mainly been written about by
 					Christian writers, “for the women of Israel something still more is needed.”
 						<persName key="Grace Aguilar" ref="https://cwrc.ca/islandora/object/orlando%3A3d7f95d6-55b6-4556-9224-1b110676f09f">Aguilar</persName> anticipates arguments that her book may, in parts
-					“resemble more a religious essay than female <ref target="#tgenre_biography">biography</ref>” replying that “the vital
+					“resemble more a religious <ref target="#tgenre_essay">essay</ref> than female <ref target="#tgenre_biography">biography</ref>” replying that “the vital
 					spirit of religion, is the sole intention of these pages.” <persName key="Grace Aguilar" ref="https://cwrc.ca/islandora/object/orlando%3A3d7f95d6-55b6-4556-9224-1b110676f09f">Aguilar’s</persName> interpretation of biblical stories draws on the male
 					Jewish tradition of Midrash or scriptural commentary; some scholars have argued
 					that <persName key="Grace Aguilar" ref="https://cwrc.ca/islandora/object/orlando%3A3d7f95d6-55b6-4556-9224-1b110676f09f">Aguilar</persName> may have been the first Jewish woman to write in the
@@ -1343,7 +1343,7 @@
 					attempt to forestall any unauthorised versions of her life. Anxious that a
 					would-be biographer would write her life “wholly unenlightened by spiritual
 					knowledge, and uninfluenced by spiritual feeling” and disapproving of the way in
-					which “Private journals are sought out, confidential letters raked together, and
+					which “Private journals are sought out, confidential <ref target="#tgenre_letter">letters</ref> raked together, and
 					a most unseemly exposure made, alike of the living and the dead” she asked all
 					her correspondents to keep their letters out of biographer’s hands, and wrote
 					the story of her life herself. Writing about working class women’s spiritual
@@ -1428,7 +1428,7 @@
 						<persName key="Mary Robinson"
 						ref="https://cwrc.ca/islandora/object/orlando%3Aaa492a9d-44ee-49b9-98ba-d06e0018634f"
 						>Robinson</persName> had been an actress and the mistress of the Prince of
-					Wales before becoming a radical writer of novels, drama, periodical essays and
+					Wales before becoming a radical writer of <ref target="#tgenre_novel">novels</ref>, drama, <ref target="#tgenre_periodical">periodical</ref> <ref target="#tgenre_essay">essays</ref> and
 					poetry. Some of her contemporaries read her disability as an appropriate
 					punishment for a fallen woman. (It was rumoured that her paralysis was the
 					result of abortion, venereal disease, or an infection following a miscarriage.)
@@ -1464,7 +1464,7 @@
 							key="Harriet Martineau"
 							ref="https://commons.cwrc.ca/orlando:ad6c2ea8-cac6-40e2-b1d3-85db36795381"
 							>Martineau’s</persName>
-						<title level="m">Autobiography</title> is a response to the domestic memoir,
+						<title level="m">Autobiography</title> is a response to the  <ref target="#tgenre_biography">domestic memoir</ref>,
 						and to the domestication of religion and intellect in memoirs of women
 						including <persName key="Charlotte Elizabeth Tonna"
 							ref="https://cwrc.ca/islandora/object/orlando%3A8fb1fa10-bf2a-4da0-900a-5f7a975aac9d"
@@ -1654,7 +1654,7 @@
 					whom she wrote more than a dozen books. Two years before her death, popular
 					novelist Mary Augusta Ward published <title level="m">A Writer’s
 						Recollections</title> (1918).<title level="m"> A Writer’s
-						Recollection</title> follows the memoir format of thirty years earlier,
+						Recollection</title> follows the <ref target="#tgenre_biography">memoir</ref> format of thirty years earlier,
 					focusing not on Ward’s interior drama, but instead sharing anecdotes about
 					writers who happen to be family members (Matthew Arnold was her uncle), and
 					showing the genesis of her writing in family life.</p>
