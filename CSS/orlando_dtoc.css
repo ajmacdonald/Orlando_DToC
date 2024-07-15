@@ -801,6 +801,7 @@ orig {
 }
 p {
     display : block;
+    color: #2F4F4F !important;
     margin-bottom : 0.5em;
 }
 pb {
