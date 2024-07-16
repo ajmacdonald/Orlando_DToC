@@ -19,12 +19,12 @@
 	<text>
 		<body>
 			<div type="prose">
-				<head>Introductions</head>
+				<head>Introduction</head>
 				<p><ref target="#tgenreissue"><ref target="#tgenre_lifeWriting">Life writing</ref>,
 						broadly construed, was at once one of the most welcoming and one of the most
 						challenging genres for women writers in the nineteenth century.</ref> The
 					nineteenth-century woman writer who planned to write about a life, whether her
-					own or someone else’s, faced several challenges. Following <persName key="James Boswell" ref="https://cwrc.ca/islandora/object/orlando%3A88a01f90-9336-4c3b-85f5-032849180b89">James Boswell</persName>’s <title key="The Life of Samuel Johnson" ref="http://www.wikidata.org/entity/Q1218644">Life of Samuel Johnson</title>
+					own or someone else’s, faced several challenges. Following <persName key="James Boswell" ref="https://cwrc.ca/islandora/object/orlando%3A88a01f90-9336-4c3b-85f5-032849180b89">James Boswell</persName>’s <title key="The Life of Samuel Johnson" ref="http://www.wikidata.org/entity/Q1218644">Life of <persName>Samuel Johnson</persName></title>
 					(1791), often cited as the first modern <ref target="#tgenre_biography">biography</ref>, biography began to coalesce as a genre in the nineteenth
 					century. <ref target="#pattitudes">Writing a biography required education and
 						training in scholarly methods, which many women writers lacked. Biography is
@@ -57,7 +57,7 @@
 					for working class women writers, who tended to be less literate than both
 					working class men and middle-class women, and who wrote, by one estimate, only
 					one in ten working class <ref target="#tgenre_autobiography">autobiographies</ref> in the period.<note type="scholarNote">For literacy,
-						see Jane Rendall, “A Short Account of my Unprofitable Life”: Autobiographies
+						see <persName>Jane Rendall</persName>, “A Short Account of my Unprofitable Life”: Autobiographies
 						of Working Class Women in Britain c. 1775-1845, In Women’s Lives / Women’s
 						Times: New Essays on Auto/biography, edited by Trev Lynn Broughton and Linda
 						R. Anderson (Albany: State University of New York Press, 1997), 32. For an
