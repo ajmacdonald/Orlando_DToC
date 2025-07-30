@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/ajmacdonald/Orlando_DToC/main/CSS/orlando_dtoc2.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chapter 7: Lives in Writing</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<notesStmt>
+				<note type="abstract">Sample abstract text</note>
+			</notesStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+	<text>
+		<body>
+			<div type="prose">
+				<head>Introduction</head>
+				<p><ref target="#tgenreissue"><ref target="#tgenre_lifeWriting">Life writing</ref>,
+						broadly construed, was at once one of the most welcoming and one of the most
+						challenging genres for women writers in the nineteenth century.</ref> The
+					nineteenth-century woman writer who planned to write about a life, whether her
+					own or someone else’s, faced several challenges. Following <persName key="James Boswell" ref="https://cwrc.ca/islandora/object/orlando%3A88a01f90-9336-4c3b-85f5-032849180b89">James Boswell</persName>’s <title key="The Life of Samuel Johnson" ref="http://www.wikidata.org/entity/Q1218644">Life of <persName>Samuel Johnson</persName></title>
+					(1791), often cited as the first modern <ref target="#tgenre_biography">biography</ref>, biography began to coalesce as a genre in the nineteenth
+					century. <ref target="#pattitudes">Writing a biography required education and
+						training in scholarly methods, which many women writers lacked. Biography is
+						rooted in research, and women writers were less likely to have both the
+						education to undertake such research and the access to the manuscript and
+						book materials that they needed for such work than their male counterparts.
+						These challenges faced would-be woman biographers regardless of the gender
+						of their proposed subject. <ref type="#tthemetopic">If a woman writer wanted
+							to write the life of another woman, these same challenges were
+							exacerbated: with the exception of Queens and other figures of
+							historical import, women’s lives were not usually well-documented, and
+							the would-be biographer of a woman who was not <persName key="Queen Elizabeth I" ref="https://cwrc.ca/islandora/object/orlando%3A5ac060d4-2d7e-4684-a2ab-537a0c86e4ba">Queen Elizabeth I</persName> faced the dual challenge of finding
+							sources and writing about another woman’s life when many assumed that
+							women’s lives were trivial and not worth documenting.</ref></ref><note type="scholarNote">Juliette Atkinson, <title level="m">Victorian Biography Reconsidered a Study of Nineteenth-Century “Hidden” Lives.</title> (Oxford: Oxford University Press, 2010), 146-147.</note> <ref type="#tgenreissue">Indeed, writing about a woman’s life could be seen as an
+						unseemly invasion of her privacy; in his <title level="m">Memoirs of the
+							Author of A Vindication of the Rights of Woman</title> (1798), <persName key="William Godwin" ref="https://cwrc.ca/islandora/object/orlando%3A8a4d5074-7c65-4376-a5c8-3f804adc1d16">William Godwin</persName> revealed <persName key="Mary Wollstonecraft" ref="https://commons.cwrc.ca/orlando:25504fac-570f-4fb6-bee5-73314bed90ae">Mary Wollstonecraft</persName>’s illegitimate daughter.</ref>
+					<ref type="#tgenreissue">The potential for biography to invade women’s privacy
+						was not helped by the fact that some of the most popular lives of women in
+						the eighteenth century were the vies scandaleuses of courtesans like
+							<persName key="Teresia Constantia Phillips" ref="https://commons.cwrc.ca/orlando:eabd259b-1fd7-4a83-9153-f6ada722f993">Teresia Constantia Phillips</persName> and <persName key="Laetitia Pilkington" ref="https://commons.cwrc.ca/orlando:850338f6-0641-471c-83e2-718d467a96c8">Laetitia Pilkington</persName>.</ref><note type="scholarNote">Frances
+						Wilson, “Romantic Autobiography.” In The Cambridge Companion to
+						Autobiography, edited by Maria DiBattista and Emily O. Wittman (New York:
+						Cambridge UP, 2014), 71. See also Atkinson, Victorian Biography, 147.</note>
+					<ref target="#tgenre_autobiography">Autobiography</ref>, a term that was coined
+					at the end of the eighteenth century in 1797 and confidently used by 1809,<note type="scholarNote">Linda Peterson, Traditions of Victorian Women’s
+						Autobiography: The Poetics and Politics of Life Writing, (Charlottesville:
+						University of Virginia Press, 1999), 3.</note> developed alongside <ref target="#tgenre_biography">biography</ref>, and even women who sought to
+					write about their own lives from their own perspective faced the notion that it
+					was unseemly for women to centre themselves. The situation was more difficult
+					for working class women writers, who tended to be less literate than both
+					working class men and middle-class women, and who wrote, by one estimate, only
+					one in ten working class <ref target="#tgenre_autobiography">autobiographies</ref> in the period.<note type="scholarNote">For literacy,
+						see <persName>Jane Rendall</persName>, “A Short Account of my Unprofitable Life”: Autobiographies
+						of Working Class Women in Britain c. 1775-1845, In Women’s Lives / Women’s
+						Times: New Essays on Auto/biography, edited by Trev Lynn Broughton and Linda
+						R. Anderson (Albany: State University of New York Press, 1997), 32. For an
+						overview of Victorian working class writing, see Florence Boos, Memoirs of
+						Victorian Working-Class Women: The Hard Way Up (New York: Palgrave
+						Macmillan, 2017), 2.</note> Very few of these were published in the
+					nineteenth century, and over half of the extant working class women’s <ref target="#tgenre_autobiography">autobiographies</ref> remain in
+						manuscript.<note type="scholarNote">Boos, Memoirs of Victorian Working-Class
+						Women, 2. Boos notes that a few more autobiographical writings of working
+						class Victorian women have been uncovered since these numbers were
+						calculated.</note>
+					<ref target="#pnonsurvival">Indeed, not all women’s life writing survived:
+							<persName key="Elizabeth Inchbald" ref="https://commons.cwrc.ca/orlando:b6be4731-d790-4e8a-9f8a-9d1c28455b3c">Elizabeth Inchbald</persName> worked for years writing her life’s story
+						in the final years of her life, but encountered so many difficulties with
+						publishers who were afraid that the book would be too scandalous or not
+						scandalous enough, that she had the manuscript destroyed upon her
+						death.</ref></p>
+			</div>
+		</body>
+	</text>
+</TEI>
