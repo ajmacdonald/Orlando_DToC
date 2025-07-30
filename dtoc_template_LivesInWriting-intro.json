@@ -1,0 +1,108 @@
+{
+    "inputs": [
+        "https://raw.githubusercontent.com/ajmacdonald/Orlando_DToC/main/Lives_in_Writing-intro.xml"
+    ],
+    "documents": "//div[@type='prose'or@type='subsection'or@type='notes'or@type='annotations'or@type='works']",
+    "ignoreNamespace": true,
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "editionTitle": "Chapter 7: Lives in Writing",
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//ref[@target='#pattitudes']",
+                "label": "Attitudes"
+            },
+            {
+                "xpath": "//ref[@target='#genreissue']",
+                "label": "Genre issue"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_autobiography']",
+                "label": "Genre: Autobiography"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_biography']",
+                "label": "Genre: Biography"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_diary']",
+                "label": "Genre: Diary"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_essay']",
+                "label": "Genre: Essay"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_poetry']",
+                "label": "Genre: Fiction"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_introduction']",
+                "label": "Genre: Introduction"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_letter']",
+                "label": "Genre: Letter"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_lifeWriting']",
+                "label": "Genre: Life Writing"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_novel']",
+                "label": "Genre: Novel"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_periodical']",
+                "label": "Genre: Periodical"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_prefatorypiece']",
+                "label": "Genre: Prefatory Piece"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_sketch']",
+                "label": "Genre: Sketch"
+            },
+            {
+                "xpath": "//ref[@target='#tgenre_travelwriting']",
+                "label": "Genre: Travel Writing"
+            },
+            {
+                "xpath": "//ref[@target='#pmotives_ascribed']",
+                "label": "Motives for writing"
+            },
+            {
+                "xpath": "//orgName",
+                "label": "Organizations"
+            },
+            {
+                "xpath": "//persName",
+                "label": "People"
+            },
+            {
+                "xpath": "//placeName",
+                "label": "Places"
+            },
+            {
+                "xpath": "//ref[@target='#prelationswithpublisher']",
+                "label": "Relations with publisher"
+            },
+            {
+                "xpath": "//ref[@target='#rresponse']",
+                "label": "Responses"
+            },
+            {
+                "xpath": "//title",
+                "label": "Works"
+            }
+        ],
+        "toc": [
+            "aee3ecc763ead83e1a0965ffc74bb183378d3924dd548a2e1a1ebe59ca4b60a6"
+        ]
+    }
+}
